@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView Sample</string>
+    <string name="api">API</string>
+    <string name="version">Version</string>
+</resources>
